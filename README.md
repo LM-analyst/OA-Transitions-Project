@@ -13,7 +13,7 @@ This project significantly improved understanding of the impact of flipping to O
 - SAP
 - Excel
 - Power BI desktop (DAX, PowerQuery, custom measures)
-- Python (Pandas, NumPy, statsmodels, matplotlib, scikit-learn, seaborn
+- Python (Pandas, NumPy, statsmodels, matplotlib, scikit-learn, seaborn)
 
 #Contents
 
